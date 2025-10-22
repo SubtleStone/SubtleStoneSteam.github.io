@@ -27,21 +27,20 @@ Press **Ctrl+H** to see hidden files.
 Go to
 > .local/share/steam  (Here you should see other folders like appcache, bin, clientui, compatibilitytools.d, config etc
 
--   If you use a flatpak version
-   
-  {
-  Go to
+
+If you use a flatpak version
+Go to
    > .var/app/com.valvesoftware.Steam/data/Steam
-   }
+   
+ 
+ 
  Create a file called steam_dev.cfg
  Open the file with any text editor and add
-
 > unShaderBackgroundProcessingThreads X
-
-
 where X is the number of cores for your cpu if you have hyperthreading
 For example if you are using i9,13900k your threads is 32.
 If you are using Ryzen 5 4600 you have 12 threads.
+
 
 
 Faster shader pre-compilation
