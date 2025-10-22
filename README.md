@@ -21,7 +21,7 @@ ___
 
 SHADERS WERE TAKING 30-40 mins to process. So, I started looking for a fix found this solution on reddit.
 
-Paragraph 1
+
 Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
 Press **Ctrl+H** to see hidden files.
 
