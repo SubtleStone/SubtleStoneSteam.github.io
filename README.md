@@ -27,10 +27,10 @@ Press **Ctrl+H** to see hidden files.
 Go to
 > .local/share/steam  (Here you should see other folders like appcache, bin, clientui, compatibilitytools.d, config etc
 
-If you use a flatpak version
-
-Go to
-> .var/app/com.valvesoftware.Steam/data/Steam
+-   If you use a flatpak version
+   
+   Go to
+   > .var/app/com.valvesoftware.Steam/data/Steam
 
  Create a file called steam_dev.cfg
  Open the file with any text editor and add
