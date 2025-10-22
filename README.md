@@ -16,7 +16,7 @@ PROCESSING SHADERS TAKES  TOO LONG
 
 
 
-- [X] ### 1. *PROCESSING SHADERS TAKES TOO LONG*
+### 1. *PROCESSING SHADERS TAKES TOO LONG*
 ___
 
 Shaders were taking 30-40 mins to process. So, I started looking for a fix and found this solution on reddit.
@@ -57,7 +57,8 @@ In certain circumstances shader pre-compilation may only use one core, however t
 
 "
 ***
-- Fix for me that worked for me :
+
+- [X] - Fix for me that worked for me :
    
    - // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
 
