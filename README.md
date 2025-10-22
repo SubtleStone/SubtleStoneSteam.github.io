@@ -24,8 +24,8 @@ Shaders were taking 30-40 mins to process. So, I started looking for a fix and f
 
 "
 
-   Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
-   Press **Ctrl+H** to see hidden files.
+            Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
+            Press **Ctrl+H** to see hidden files.
 
 Go to
 > .local/share/steam  (Here you should see other folders like appcache, bin, clientui, compatibilitytools.d, config etc
@@ -60,7 +60,7 @@ In certain circumstances shader pre-compilation may only use one core, however t
 
 - [X]  Fix for me that worked for me :
    
-   - // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
+   -  in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
 
 
 - [X] Source
