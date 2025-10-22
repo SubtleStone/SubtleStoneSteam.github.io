@@ -21,10 +21,10 @@ ___
 
 SHADERS WERE TAKING 30-40 mins to process. So, I started looking for a fix found this solution on reddit.
 
-Open your File Manager, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
-Press Ctrl+H to see hidden files.
-Go to
+Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
+Press **Ctrl+H** to see hidden files.
 
+Go to
 > .local/share/steam  (Here you should see other folders like appcache, bin, clientui, compatibilitytools.d, config etc
 
 If you use a flatpak version
@@ -43,7 +43,7 @@ For example if you are using i9,13900k your threads is 32.
 If you are using Ryzen 5 4600 you have 12 threads.
 
 
-"Faster shader pre-compilation
+Faster shader pre-compilation
 In certain circumstances shader pre-compilation may only use one core, however this can be overridden by the user, example to use 8 cores:
 
 > ~/.steam/steam/steam_dev.cfg
