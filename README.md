@@ -3,12 +3,14 @@
 Below are the problems and fixes, I have encountered so far.
 ___
 
+## TABLE OF FIXES
+
  INDEX |
 ---------|
 *PROCESSING SHADERS TAKES TOO LONG*
 ___
 
-###PROCESSING SHADERS TAKES TOO LONG 
+##PROCESSING SHADERS TAKES TOO LONG 
 
 
 Fix for me:  // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
