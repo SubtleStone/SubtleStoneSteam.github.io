@@ -3,7 +3,7 @@
 Below are the problems and fixes, I have encountered so far.
 ___
 
-## INDEX |
+ INDEX |
 ---------|
 *PROCESSING SHADERS TAKES TOO LONG*
 ---------|
