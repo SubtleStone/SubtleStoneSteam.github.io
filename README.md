@@ -2,12 +2,14 @@
 
 
 ## Description
-Below are the problems and fixes, I have encountered so far.
 ___
+Below are the problems and fixes, I have encountered so far.
+
 
 ## TABLE OF FIXES
+___
 
- INDEX |
+INDEX |
 ---------|
 PROCESSING SHADERS TAKES  TOO LONG
 
