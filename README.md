@@ -16,7 +16,7 @@ PROCESSING SHADERS TAKES  TOO LONG
 
 
 
-### 1. *PROCESSING SHADERS TAKES TOO LONG*
+- [X] ### 1. *PROCESSING SHADERS TAKES TOO LONG*
 ___
 
 Shaders were taking 30-40 mins to process. So, I started looking for a fix and found this solution on reddit.
