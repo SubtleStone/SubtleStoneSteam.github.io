@@ -58,12 +58,12 @@ In certain circumstances shader pre-compilation may only use one core, however t
 "
 ***
 
-- [X] - Fix for me that worked for me :
+- [X]  Fix for me that worked for me :
    
    - // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
 
 
-- Source
+- [X] Source
        -  [steamcommunity](https://steamcommunity.com/discussions/forum/1/4423184732111747107/).
        -  [archlinuxwiki](https://wiki.archlinux.org/title/Steam/).         
 
