@@ -9,7 +9,7 @@ Below are the problems and fixes, I have encountered so far.
 ## TABLE OF FIXES
 ___
 
->INDEX |
+INDEX |
 ---------|
 PROCESSING SHADERS TAKES  TOO LONG
 
@@ -48,7 +48,7 @@ In certain circumstances shader pre-compilation may only use one core, however t
 ~/.steam/steam/steam_dev.cfg
 unShaderBackgroundProcessingThreads 8 
 
-
+----
 - Fix for me:  // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
 
 
