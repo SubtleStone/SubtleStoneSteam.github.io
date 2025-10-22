@@ -1,5 +1,7 @@
 # STEAM FIXES
 
+
+## Description
 Below are the problems and fixes, I have encountered so far.
 ___
 
@@ -7,7 +9,7 @@ ___
 
  INDEX |
 ---------|
-*PROCESSING SHADERS TAKES TOO LONG*
+### 1. *PROCESSING SHADERS TAKES TOO LONG*
 ___
 
 ##PROCESSING SHADERS TAKES TOO LONG 
