@@ -65,8 +65,8 @@ In certain circumstances shader pre-compilation may only use one core, however t
 
 - [X] Source
 
-       -  [steamcommunity](https://steamcommunity.com/discussions/forum/1/4423184732111747107/).
+         [steamcommunity](https://steamcommunity.com/discussions/forum/1/4423184732111747107/).
       
-       -  [archlinuxwiki](https://wiki.archlinux.org/title/Steam/).         
+         [archlinuxwiki](https://wiki.archlinux.org/title/Steam/).         
 
       
