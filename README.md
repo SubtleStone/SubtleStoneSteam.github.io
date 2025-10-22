@@ -19,10 +19,10 @@ PROCESSING SHADERS TAKES  TOO LONG
 ### 1. *PROCESSING SHADERS TAKES TOO LONG*
 ___
 
-SHADERS WERE TAKING 30-40 mins to process. So, I started looking for a fix found this solution on reddit.
+Shaders were taking 30-40 mins to process. So, I started looking for a fix and found this solution on reddit.
 
 
-Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
+"Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
 Press **Ctrl+H** to see hidden files.
 
 Go to
@@ -50,7 +50,7 @@ In certain circumstances shader pre-compilation may only use one core, however t
 
 > ~/.steam/steam/steam_dev.cfg
 > unShaderBackgroundProcessingThreads 8 
-
+"
 ***
 - Fix for me:  // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
 
