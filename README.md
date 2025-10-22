@@ -29,7 +29,8 @@ Go to
 
 -   If you use a flatpak version
    
-  { Go to
+  {
+  Go to
    > .var/app/com.valvesoftware.Steam/data/Steam
    }
  Create a file called steam_dev.cfg
