@@ -57,7 +57,9 @@ In certain circumstances shader pre-compilation may only use one core, however t
 
 "
 ***
-- Fix for me:  // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
+- Fix for me that worked for me :
+   
+   - // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
 
 
 - Source
