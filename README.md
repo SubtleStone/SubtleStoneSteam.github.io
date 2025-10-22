@@ -24,8 +24,8 @@ Shaders were taking 30-40 mins to process. So, I started looking for a fix and f
 
 "
 
-Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
-Press **Ctrl+H** to see hidden files.
+   Open your **File Manager**, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
+   Press **Ctrl+H** to see hidden files.
 
 Go to
 > .local/share/steam  (Here you should see other folders like appcache, bin, clientui, compatibilitytools.d, config etc
@@ -65,8 +65,8 @@ In certain circumstances shader pre-compilation may only use one core, however t
 
 - [X] Source
 
-[steamcommunity](https://steamcommunity.com/discussions/forum/1/4423184732111747107/).
+ - [steamcommunity](https://steamcommunity.com/discussions/forum/1/4423184732111747107/).
 
-[archlinuxwiki](https://wiki.archlinux.org/title/Steam/).         
+ - [archlinuxwiki](https://wiki.archlinux.org/title/Steam/).         
 
       
