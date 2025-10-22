@@ -21,20 +21,21 @@ ___
 
 SHADERS WERE TAKING 30-40 mins to process. So, I started looking for a fix found this solution on reddit.
 
->Open your File Manager, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
->Press Ctrl+H to see hidden files.
+Open your File Manager, if you are new to Linux you can just open a terminal and type Dolphin, Thunar, Nemo whatever your file manager is.
+Press Ctrl+H to see hidden files.
 Go to
 
-.local/share/steam  (Here you should see other folders like appcache, bin, clientui, compatibilitytools.d, config etc
+> .local/share/steam  (Here you should see other folders like appcache, bin, clientui, compatibilitytools.d, config etc
 
 If you use a flatpak version
 
-go to .var/app/com.valvesoftware.Steam/data/Steam
+Go to
+> .var/app/com.valvesoftware.Steam/data/Steam
 
-> Create a file called steam_dev.cfg
-> Open the file with any text editor and add
+ Create a file called steam_dev.cfg
+ Open the file with any text editor and add
 
-unShaderBackgroundProcessingThreads X
+> unShaderBackgroundProcessingThreads X
 
 
 where X is the number of cores for your cpu if you have hyperthreading
@@ -45,8 +46,8 @@ If you are using Ryzen 5 4600 you have 12 threads.
 "Faster shader pre-compilation
 In certain circumstances shader pre-compilation may only use one core, however this can be overridden by the user, example to use 8 cores:
 
-~/.steam/steam/steam_dev.cfg
-unShaderBackgroundProcessingThreads 8 
+> ~/.steam/steam/steam_dev.cfg
+> unShaderBackgroundProcessingThreads 8 
 
 ***
 - Fix for me:  // in my case it is 6 cores. Since my processor is Intel i5 10h. It seems to work but the difference isn't massive in my case ( Skyrim ).
