@@ -6,7 +6,6 @@ ___
  INDEX |
 ---------|
 *PROCESSING SHADERS TAKES TOO LONG*
----------|
 ___
 
 ###PROCESSING SHADERS TAKES TOO LONG 
